@@ -611,6 +611,13 @@ All artifacts for evaluation:
 
 ---
 
+## Optional Appendix
+
+For reviewers interested in future extensions,
+see: docs/Chronos_Layer_Physical_Extension_PRD.md
+
+---
+
 **Created by**: Chloe & Multi-AI Team (Claude, Perplexity, Gemini, GPT)  
 **Category**: Creative Autopilot  
 **Date**: January 2026
