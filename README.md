@@ -5,6 +5,10 @@
 
 ---
 
+- **Demo Video**: https://youtu.be/uyqiHjcFoyM?si=V8HaBFnoHLaE6TUC
+
+---  
+
 ## 📌 TL;DR (For All Evaluators)
 
 **What we built**: An AI system that transforms your travel photos into historically accurate reconstructions—preserving your face while rebuilding entire historical scenes.
