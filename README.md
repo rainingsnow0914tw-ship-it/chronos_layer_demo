@@ -168,7 +168,7 @@ Through multiple generations, we observed Gemini 3 consistently follows a reason
 
 This consistent pattern across different landmarks showed us we weren't just using an image generator—we were working with a reasoning system.
 
-**Evidence**: Complete generation logs available in `TECHNICAL_ANALYSIS.md`.
+**Evidence**: Complete generation logs available in [`TECHNICAL_ANALYSIS.md`](https://github.com/rainingsnow0914tw-ship-it/chronos_layer_demo/blob/main/TECHNICAL_ANALYSIS.md).
 
 ---
 
@@ -467,10 +467,9 @@ This isn't just about better photos. It's about:
 ## 📊 Technical Evidence
 
 All generation logs, architectural diagrams, and technical analysis are available in:
-- `TECHNICAL_ANALYSIS.md` (5 complete generation logs)
-- `ARCHITECTURE.md` (System design documentation)
-- `README.md` (Project overview)
-
+- [`TECHNICAL_ANALYSIS.md`](https://github.com/rainingsnow0914tw-ship-it/chronos_layer_demo/blob/main/TECHNICAL_ANALYSIS.md) (5 complete generation logs)
+- [`ARCHITECTURE.md`](https://github.com/rainingsnow0914tw-ship-it/chronos_layer_demo/blob/main/ARCHITECTURE.md) (System design documentation)
+  
 ---
 
 ## 🔗 Try It Yourself
@@ -533,7 +532,7 @@ Across 5 independent generations, we documented consistent 4-step patterns:
 | Verify | Accuracy check | "Verifying Historical Accuracy..." |
 | Confirm | Final validation | "I'm satisfied that the result..." |
 
-**Evidence**: Complete generation logs available in `TECHNICAL_ANALYSIS.md`
+**Evidence**: Complete generation logs available in [`TECHNICAL_ANALYSIS.md`](https://github.com/rainingsnow0914tw-ship-it/chronos_layer_demo/blob/main/TECHNICAL_ANALYSIS.md)
 
 ### API Integration Points
 
@@ -561,10 +560,9 @@ Across 5 independent generations, we documented consistent 4-step patterns:
 ### Reproducibility
 
 All artifacts for evaluation:
-- `TECHNICAL_ANALYSIS.md`: Complete generation logs with exposed reasoning
-- `ARCHITECTURE.md`: System design documentation
-- `README.md`: Project overview
-- Live demo: Public AI Studio link (no login required)
+- [`TECHNICAL_ANALYSIS.md`](https://github.com/rainingsnow0914tw-ship-it/chronos_layer_demo/blob/main/TECHNICAL_ANALYSIS.md): Complete generation logs with exposed reasoning
+- [`ARCHITECTURE.md`](https://github.com/rainingsnow0914tw-ship-it/chronos_layer_demo/blob/main/ARCHITECTURE.md): System design documentation
+- Live demo: Public AI Studio link ([no login required](https://ai.studio/apps/drive/1iSQUWgVyo_51Jmdpw5P_V0LEl4WTJTRr))
 - Source code: Available upon request
 
 ---
