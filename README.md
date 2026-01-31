@@ -443,7 +443,7 @@ We see this as a potential future extension, especially in collaboration with cu
 ## Optional Appendix
 
 For reviewers interested in future extensions,
-see: docs/Chronos_Layer_Physical_Extension_PRD.md
+see: [docs/Chronos_Layer_Physical_Extension_PRD.md](https://github.com/rainingsnow0914tw-ship-it/chronos_layer_demo/blob/main/Chronos_Layer_Physical_Extension_PRD.md)
 
 ---
 
