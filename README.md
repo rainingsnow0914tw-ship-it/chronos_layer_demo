@@ -480,7 +480,7 @@ All generation logs, architectural diagrams, and technical analysis are availabl
 - Upload your photo
 - Experience the magic
 
-**Interactive Website**: [See all 5 landmarks with before/after comparisons]
+**Interactive Website**: [See all 5 landmarks with before/after comparisons](https://github.com/rainingsnow0914tw-ship-it/chronos_layer_demo/tree/main/demo_assets)
 
 ---
 
