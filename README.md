@@ -573,7 +573,7 @@ All artifacts for evaluation:
 
 ---
 
-**Created by**: Chloe & Multi-AI Team (Claude, Perplexity, Gemini, GPT)  
+**Created by**: Chloe & Multi-AI Team (Gemini, GPT, Claude, Perplexity, Copilot)  
 **Category**: Creative Autopilot  
 **Date**: January 2026
 
